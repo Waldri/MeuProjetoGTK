@@ -1,0 +1,19 @@
+using Gtk;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Application.Init();
+
+        Window window = new Window("GTK# Hello World");
+        window.DeleteEvent += delegate { Application.Quit(); };
+        
+        Label label = new Label("Hello, GTK#!");
+        window.Add(label);
+        
+        window.ShowAll();
+
+        Application.Run();
+    }
+}
