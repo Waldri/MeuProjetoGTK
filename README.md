@@ -1,4 +1,5 @@
 # MeuProjetoGTK
+Template to using gtkSharp on Ubuntu. Gnome UI on dotNet C#
 
 ## 1st: install packages:
 ```
