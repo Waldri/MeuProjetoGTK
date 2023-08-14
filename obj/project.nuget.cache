@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "RRdTnQnUlIc/xXacEbrpYwnlLNPYBrTT9frmmHvovvmyxE7UmQc8Cb/ihcncfRMIu8seLxl00LXhTrdn3Fm5FQ==",
+  "dgSpecHash": "xHWS2zvocbNf21Gdyx/fpuXOyJ1kyLc98b+bBItonF/6oU5mVCOFmpg9u3tL74On/Q3iP3BuMjS83sFJrzk7ag==",
   "success": true,
-  "projectFilePath": "/home/waldri/cSharp/MeuProjetoGTK/MeuProjetoGTK.csproj",
+  "projectFilePath": "D:\\Waldri\\source\\repos\\MeuProjetoGTK\\MeuProjetoGTK.csproj",
   "expectedPackageFiles": [
-    "/home/waldri/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
-    "/home/waldri/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
-    "/home/waldri/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
-    "/home/waldri/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
-    "/home/waldri/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
-    "/home/waldri/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
-    "/home/waldri/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+    "C:\\Users\\Waldri\\.nuget\\packages\\atksharp\\3.24.24.4\\atksharp.3.24.24.4.nupkg.sha512",
+    "C:\\Users\\Waldri\\.nuget\\packages\\cairosharp\\3.24.24.4\\cairosharp.3.24.24.4.nupkg.sha512",
+    "C:\\Users\\Waldri\\.nuget\\packages\\gdksharp\\3.24.24.4\\gdksharp.3.24.24.4.nupkg.sha512",
+    "C:\\Users\\Waldri\\.nuget\\packages\\giosharp\\3.24.24.4\\giosharp.3.24.24.4.nupkg.sha512",
+    "C:\\Users\\Waldri\\.nuget\\packages\\glibsharp\\3.24.24.4\\glibsharp.3.24.24.4.nupkg.sha512",
+    "C:\\Users\\Waldri\\.nuget\\packages\\gtksharp\\3.24.24.4\\gtksharp.3.24.24.4.nupkg.sha512",
+    "C:\\Users\\Waldri\\.nuget\\packages\\pangosharp\\3.24.24.4\\pangosharp.3.24.24.4.nupkg.sha512"
   ],
   "logs": []
 }
