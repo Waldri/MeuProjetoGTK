@@ -21,6 +21,8 @@ class Program
         // Create a new window
         Gtk.Window newWindow = (Gtk.Window)builder.GetObject("GtkWindows");
         newWindow.Title = "New Window";
+        Button button2 = (Button)builder.GetObject("button2");
+        button2.Clicked += OnButtonClicked;
         newWindow.ShowAll();
         window.ShowAll();
 
