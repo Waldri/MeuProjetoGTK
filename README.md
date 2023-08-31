@@ -9,7 +9,8 @@ sudo apt-get install libgtk2.0-cil libgtk3.0-cil
 editor gráfico:
 sudo apt-get install glade
 ```
-
+dotnet sdk
+https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
 
 
 ## 2nd: create folder and file (MeuProjetoGtk.csproj)
