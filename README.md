@@ -9,9 +9,10 @@ sudo apt-get install libgtk2.0-cil libgtk3.0-cil
 editor gráfico:
 sudo apt-get install glade
 ```
-dotnet sdk
+dotnet sdk Ubuntu:
 https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
-
+dotnet sdk Raspberry
+https://learn.microsoft.com/en-us/dotnet/iot/deployment
 
 ## 2nd: create folder and file (MeuProjetoGtk.csproj)
 mkdir MeuProjetoGtk
